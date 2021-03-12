@@ -1,0 +1,2 @@
+# Spring-Scheduled
+重写Spring的定时任务注解@Scheduled 来使其可以支持应用服务不停止的情况下在线动态修改任务的排期以及启停功能
